@@ -14,8 +14,8 @@ Website:  http://creative-wp.com/themes/fantazia
 CSS General
 */
 
-@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
+@import url(http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url(http://fonts.useso.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
 
 .clearfix
 {
@@ -750,7 +750,7 @@ display: block;
 	font-weight:300;
 }
 
-section-title-left {
+.section-title-left {
 	text-transform:uppercase;
 	font-weight: 400;
 }
